@@ -1,5 +1,8 @@
 ## Transmon qubit coupled with resonator and it's dynamics
 
+* Look into transmon branch for the code and documentation.
+
+
 Follow the below instructions to understand and implement the code.
 
 * To understand the dynamics and the physics behind the Transmon qubit and resonator coupled system read **superconducting_qubit.md** file.
